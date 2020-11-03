@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TRAN" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TSTC>
+    <TCODE>ZAXYT_005</TCODE>
+    <PGMNA>ZAXYT_C10U2_TRANSLATION_SCREEN</PGMNA>
+    <DYPNO>9000</DYPNO>
+   </TSTC>
+   <TSTCC>
+    <TCODE>ZAXYT_005</TCODE>
+   </TSTCC>
+   <TSTCT>
+    <SPRSL>E</SPRSL>
+    <TCODE>ZAXYT_005</TCODE>
+   </TSTCT>
+   <I18N_TPOOL>
+    <TSTCT>
+     <SPRSL>1</SPRSL>
+     <TTEXT>事务代码短文本</TTEXT>
+    </TSTCT>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
